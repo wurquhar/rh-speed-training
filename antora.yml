@@ -1,9 +1,9 @@
-name: REPLACEREPONAME
-title: REPLACE Course Title
+name: rh-speed-training
+title: Red Hat Speed Training Special Event
 version: 1
 nav:
 - modules/ROOT/nav.adoc
-- modules/chapter1/nav.adoc
-- modules/chapter2/nav.adoc
-- modules/chapter3/nav.adoc
+- modules/ch1-git/nav.adoc
+- modules/ch2-ansible/nav.adoc
+- modules/ch3-containers/nav.adoc
 - modules/appendix/nav.adoc
